@@ -8,3 +8,6 @@ Entrenamiento aeróbico sobre bicicleta.
 
 ## Instrucciones
 1. Pedalea a ritmo constante por 40 min.
+
+## Consejos
+- Ajusta bien la altura del sillín.
