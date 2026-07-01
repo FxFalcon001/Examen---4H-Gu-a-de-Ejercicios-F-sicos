@@ -27,3 +27,4 @@ Ejercicio de Boxeo: Mejora la coordinación y la resistencia.
 
 Ejercicio de CrossFit: Entrenamiento intensivo y funcional.
 
+¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
