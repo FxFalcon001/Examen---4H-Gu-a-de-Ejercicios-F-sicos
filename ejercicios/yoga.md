@@ -6,3 +6,6 @@ Conexión de cuerpo, respiración y mente.
 ## Beneficios
 - Reduce el estrés.
 
+## Instrucciones
+1. Mantén la postura del guerrero.
+
