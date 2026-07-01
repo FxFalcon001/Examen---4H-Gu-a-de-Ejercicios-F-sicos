@@ -13,3 +13,5 @@ Ejercicio de Fuerza: Aumenta la masa muscular y la fuerza.
 
 Ejercicio de Flexibilidad: Mejora la movilidad y reduce el riesgo de lesiones.
 
+Ejercicio de Entrenamiento Funcional: Mejora la fuerza en movimientos cotidianos.
+
