@@ -5,3 +5,7 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 
 Tipos de Ejercicio
 
+
+
+Ejercicio Cardio: Mejora tu resistencia y salud cardiovascular.
+
