@@ -9,3 +9,5 @@ Entrenamiento físico y mental centrado en el core.
 ## Instrucciones
 1. Controla cada movimiento desde el centro.
 
+## Consejos
+- No fuerces el cuello.
