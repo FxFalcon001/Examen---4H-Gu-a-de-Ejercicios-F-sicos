@@ -9,3 +9,5 @@ Conexión de cuerpo, respiración y mente.
 ## Instrucciones
 1. Mantén la postura del guerrero.
 
+## Consejos
+- Concéntrate en respirar.
