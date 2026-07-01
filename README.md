@@ -25,3 +25,5 @@ Ejercicio de Natación: Trabaja todos los grupos musculares de manera suave.
 
 Ejercicio de Boxeo: Mejora la coordinación y la resistencia.
 
+Ejercicio de CrossFit: Entrenamiento intensivo y funcional.
+
