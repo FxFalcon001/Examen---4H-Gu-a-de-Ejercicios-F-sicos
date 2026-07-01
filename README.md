@@ -10,3 +10,6 @@ Tipos de Ejercicio
 Ejercicio Cardio: Mejora tu resistencia y salud cardiovascular.
 
 Ejercicio de Fuerza: Aumenta la masa muscular y la fuerza.
+
+Ejercicio de Flexibilidad: Mejora la movilidad y reduce el riesgo de lesiones.
+
