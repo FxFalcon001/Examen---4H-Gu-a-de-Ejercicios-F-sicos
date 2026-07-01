@@ -21,3 +21,5 @@ Ejercicio de Pilates: Fortalece el núcleo y mejora la postura.
 
 Ejercicio de Ciclismo: Gran ejercicio cardiovascular de bajo impacto.
 
+Ejercicio de Natación: Trabaja todos los grupos musculares de manera suave.
+
