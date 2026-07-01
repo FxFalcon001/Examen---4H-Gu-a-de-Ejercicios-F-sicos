@@ -9,3 +9,5 @@ Entrenamiento de combate con golpes y agilidad.
 ## Instrucciones
 1. Lanza combinaciones de jab y directo.
 
+## Consejos
+- Protege siempre tu mandíbula.
