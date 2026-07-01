@@ -9,3 +9,5 @@ Movimientos que imitan la actividad cotidiana.
 ## Instrucciones
 1. Haz sentadillas y flexiones combinadas.
 
+## Consejos
+- Mantén una buena postura.
