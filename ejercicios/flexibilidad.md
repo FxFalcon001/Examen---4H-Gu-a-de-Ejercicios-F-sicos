@@ -9,3 +9,5 @@ Estiramientos para mejorar el rango de movimiento.
 ## Instrucciones
 1. Estira cada músculo por 30 segundos.
 
+## Consejos
+- No rebotes al estirar.
