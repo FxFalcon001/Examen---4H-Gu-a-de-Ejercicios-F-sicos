@@ -17,3 +17,4 @@ Ejercicio de Entrenamiento Funcional: Mejora la fuerza en movimientos cotidianos
 
 Ejercicio de Yoga: Fomenta la relajación y la flexibilidad.
 
+Ejercicio de Pilates: Fortalece el núcleo y mejora la postura.
