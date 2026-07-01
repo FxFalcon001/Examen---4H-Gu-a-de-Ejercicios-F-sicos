@@ -6,3 +6,6 @@ Estiramientos para mejorar el rango de movimiento.
 ## Beneficios
 - Reduce el riesgo de lesiones.
 
+## Instrucciones
+1. Estira cada músculo por 30 segundos.
+
