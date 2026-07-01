@@ -15,3 +15,5 @@ Ejercicio de Flexibilidad: Mejora la movilidad y reduce el riesgo de lesiones.
 
 Ejercicio de Entrenamiento Funcional: Mejora la fuerza en movimientos cotidianos.
 
+Ejercicio de Yoga: Fomenta la relajación y la flexibilidad.
+
