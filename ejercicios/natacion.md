@@ -3,3 +3,6 @@
 ## Descripción
 Movimiento y desplazamiento a través del agua.
 
+## Beneficios
+- Trabaja todo el cuerpo.
+
